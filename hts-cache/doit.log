@@ -1,0 +1,8 @@
+-q -%i -w https://jaxtoday.org/signup/ -O "/Users/rayhollister/Sites/jaxtoday-signup" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -* +https://jaxtoday.org/signup/ +https://jaxtoday.org/wp-content/* +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -https://jaxtoday.org/wp-content/plugins/give* -https://jaxtoday.org/wp-content/plugins/quiz* -https://jaxtoday.org/wp-content/plugins/simple-lightbox* -https://jaxtoday.org/wp-content/plugins/wp-smartcrop* -https://jaxtoday.org/wp-content/plugins/jetpack* -https://jaxtoday.org/wp-content/plugins/highlight* -https://jaxtoday.org/wp-content/plugins/social-polls* -ad.doubleclick.net/* -*omappapi.com/* -*webpushr.com/* -*google.com/* -*googletagmanager.com/* -securepubads.g.doubleclick.net/* -*wp.com/* -%s -%u
+File generated automatically on Tue, 08 Apr 2025 22:43:38, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

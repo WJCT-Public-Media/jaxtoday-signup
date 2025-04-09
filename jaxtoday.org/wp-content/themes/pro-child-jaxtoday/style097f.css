@@ -1,0 +1,24 @@
+/*
+
+Theme Name: JaxToday &ndash; Pro &ndash; Child Theme
+Theme URI: https://theme.co/pro/
+Author: Ray Hollister
+Author URI: https://rayhollister.com
+Description: Customized version of the Pro theme for Jacksonville Today.
+Version: 1.0.0
+Template: pro
+
+*/
+
+/* Importing Proxima Nova from Adobe Fonts */
+/* @import url("https://use.typekit.net/ngb4qek.css"); */
+/* Redundant, now done in Pro Theme under THeme Options > Fonts ⌘⌥T */
+
+
+:root {
+    font-size: 62.5%;
+    body {
+      margin: 0;
+      font-size: 1.6rem;
+    }
+  }
